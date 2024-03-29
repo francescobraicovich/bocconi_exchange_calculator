@@ -5,7 +5,7 @@ import pandas as pd
 class Score_Calculator:
     def __init__(self, grades, credits, course):
 
-        courses = ['BAI', 'BEMACS', 'BESS', 'BIEM', 'BIEF', 'BEMAC', 'CLEAM', 'CLEF', 'CLEAC']
+        courses = ['BAI', 'BEMACS', 'BESS', 'BIEM', 'BIEF - econ', 'BIEF - fin', 'BEMACC', 'CLEAM', 'CLEF', 'CLEACC']
         if course not in courses:
             raise Exception(f'The course "{course}" is not valid.')
         
@@ -20,7 +20,8 @@ class Score_Calculator:
         self.credits = credits
 
 
-        multiplier = {"BAI": 1.02, "BEMACS": 1.02, "BESS": 1.02}
+        self.multiplier = {"BAI": 1.02, "BEMACS": 1.02, "BESS": 1.02, "BEMACC": 0.98, "CLEACC": 0.98}
+
 
         def calculate_sces(self):
             pass
