@@ -1,0 +1,137 @@
+,Course,Exam,Credits,seminar
+0,BAI,Foundations of Economic Sciences,8,0
+1,BAI,Computer Science - Module 1 ,8,0
+2,BAI,Mathematical Analysis - Module 1,8,0
+3,BAI,Algebra and Geometry,7,0
+4,BAI,Foundations of Physics I ,8,0
+5,BAI,Computer Science - Module 2 ,8,0
+6,BAI,Probability ,8,0
+7,BAI,Mathematical Analysis - Module 2,7,0
+8,BAI,Foundations of Physics II,8,0
+9,BAI,Decision Theory and Human Behaviour,8,0
+10,BAI,Mathematical Statistics,8,0
+11,BAI,Advanced Analysis and Optimization - Module 1,5,0
+12,BEMACC,Management,10,0
+13,BEMACC,Philosophy of Art,6,0
+14,BEMACC,Mathematics,9,0
+15,BEMACC,Law - module 1 (Private Law),6,0
+16,BEMACC,Microeconomics,7,0
+17,BEMACC,Economic History,7,0
+18,BEMACC,Critical Approaches to the Arts,6,0
+19,BEMACC,Computer Science,6,0
+20,BEMACC,First Language,4,0
+21,BEMACC,Accounting 1,5,0
+22,BEMACC,Statistics,8,0
+23,BEMACC,Elective 1,6,0
+24,BEMACC,Cultural Antropology,6,0
+25,BEMACC,Macroeconomics,7,0
+26,BEMACS,Microeconomics,8,0
+27,BEMACS,Mathematics and Statistics 1,8,0
+28,BEMACS,Principles of Management,8,0
+29,BEMACS,Mathematics and Statistics 2,8,0
+30,BEMACS,Fundamentals of Computer Science,8,0
+31,BEMACS,Accounting,8,0
+32,BEMACS,Fundamentals of IT Law,8,0
+33,BEMACS,First Foreign language,4,0
+34,BEMACS,Advanced Mathematics and Statistics 1,7,0
+35,BEMACS,Macroeconomics,8,0
+36,BEMACS,Fundamentals of Computer Programming,7,0
+37,BEMACS,Advanced IT Law,7,0
+38,BEMACS,Technology Innovation Seminar 1,1,1
+39,BESS,Mathematics - module 1,9,0
+40,BESS,Fundamentals of management,7,0
+41,BESS,Foundations of economics - module 1,7,0
+42,BESS,Logic and methodology of social sciences,6,0
+43,BESS,Mathematics - module 2,9,0
+44,BESS,Foundations of economics - module 2 ,7,0
+45,BESS,Statistics - module 1,7,0
+46,BESS,Computer science,6,0
+47,BESS,First language,4,0
+48,BESS,Statistics - module 2,7,0
+49,BESS,Strategic decision making and markets,8,0
+50,BESS,Macroeconomics and economic policy,8,0
+51,BESS,Economic history,6,0
+52,BIEF - fin,Management,10,0
+53,BIEF - fin,Microeconomics,9,0
+54,BIEF - fin,Mathemathics 1,8,0
+55,BIEF - fin,Macroeconomics,8,0
+56,BIEF - fin,Mathematics 2,7,0
+57,BIEF - fin,Introduction to the legal system 1,6,0
+58,BIEF - fin,Computer Science,6,0
+59,BIEF - fin,First language,4,0
+60,BIEF - fin,Accounting 1,5,0
+61,BIEF - fin,Statistics,8,0
+62,BIEF - fin,FMI,6,0
+63,BIEF - fin,Introduction to the legal system 2,6,0
+64,BIEF - fin,Economic History,6,0
+65,BIEF - fin,Critical Thinking Seminar,1,1
+66,BIEM,Economia Aziendale,10,0
+67,BIEM,Microeconomia,9,0
+68,BIEM,Matematica Generale,8,0
+69,BIEM,Macroeconomia,8,0
+70,BIEM,Matematica Finanziaria,7,0
+71,BIEM,Diritto Privato,6,0
+72,BIEM,Informatica,6,0
+73,BIEM,Inglese,4,0
+74,BIEM,Bilancio 1,5,0
+75,BIEM,Statistica,8,0
+76,BIEM,Sistema Finanziario,6,0
+77,BIEM,Storia Economica,6,0
+78,BIEM,Diritto Pubblico,6,0
+79,BIEM,Critical Thinking Seminar,1,1
+80,CLEACC,Economia Aziendale,10,0
+81,CLEACC,Estetica,6,0
+82,CLEACC,Matematica Generale e Finanziaria,9,0
+83,CLEACC,Diritto Privato,6,0
+84,CLEACC,Microeconomia,7,0
+85,CLEACC,Storia Economica,7,0
+86,CLEACC,Metodo e ricerca delle discipline artistiche,6,0
+87,CLEACC,Informatica,6,0
+88,CLEACC,Inglese,4,0
+89,CLEACC,Bilancio 1,5,0
+90,CLEACC,Statistica,8,0
+91,CLEACC,Opzionale 1,6,0
+92,CLEACC,Antropologia,6,0
+93,CLEACC,Macroeconomia,7,0
+94,CLEAM,Economia Aziendale,10,0
+95,CLEAM,Microeconomia,9,0
+96,CLEAM,Matematica Generale,8,0
+97,CLEAM,Macroeconomia,8,0
+98,CLEAM,Matematica Finanziaria,7,0
+99,CLEAM,Diritto privato,6,0
+100,CLEAM,Informatica,6,0
+101,CLEAM,Inglese,4,0
+102,CLEAM,Bilancio 1,5,0
+103,CLEAM,Statistica,8,0
+104,CLEAM,Sistema Finanziario,6,0
+105,CLEAM,Storia Economica,6,0
+106,CLEAM,Diritto pubblico,6,0
+107,CLEAM,Critical Thinking Seminar,1,1
+108,CLEF,Economia Aziendale,10,0
+109,CLEF,Microeconomia,9,0
+110,CLEF,Matematica Generale,8,0
+111,CLEF,Macroeconomia,8,0
+112,CLEF,Matematica Finanziaria,7,0
+113,CLEF,Diritto privato,6,0
+114,CLEF,Informatica,6,0
+115,CLEF,Inglese,4,0
+116,CLEF,Bilancio 1,5,0
+117,CLEF,Statistica,8,0
+118,CLEF,Sistema Finanziario,6,0
+119,CLEF,Storia Economica,6,0
+120,CLEF,Diritto pubblico,6,0
+121,CLEF,Critical Thinking Seminar,1,1
+122,BIEF - econ,Management,10,0
+123,BIEF - econ,Microeconomics,9,0
+124,BIEF - econ,Mathemathics 1,8,0
+125,BIEF - econ,Macroeconomics,8,0
+126,BIEF - econ,Mathematics 2,7,0
+127,BIEF - econ,Introduction to the legal system 1,6,0
+128,BIEF - econ,Computer Science,6,0
+129,BIEF - econ,First language,4,0
+130,BIEF - econ,Accounting 1,5,0
+131,BIEF - econ,Statistics,8,0
+132,BIEF - econ,FMI,6,0
+133,BIEF - econ,Introduction to the legal system 2,6,0
+134,BIEF - econ,Economic History,6,0
+135,BIEF - econ,Critical Thinking Seminar,1,1
