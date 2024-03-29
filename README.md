@@ -1,2 +1,3 @@
-# bocconi_exchange_calculator
+# Bocconi Exchange Calculator
+
 Calculate your exchange score, and find the destinations.
