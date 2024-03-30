@@ -95,6 +95,8 @@ class ExchangeScoreCalculator:
                     return
             
             all_grades.append(grade)
+
+        grades = np.array(all_grades)
         
         # Check if all grades have been inserted
         if len(all_grades) != len(self.grade_entries):
