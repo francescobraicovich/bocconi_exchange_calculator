@@ -1,27 +1,27 @@
-
 import numpy as np
 import pandas as pd
 
-class Score_Calculator:
-    def __init__(self, grades, credits, course):
+def calculate_score(gpa, grades, weights, first_year, multiplier):
+    total_credits = np.sum(weights)
+    first_year_mask = first_year == 1
+    passed_mask = grades != 0
 
-        courses = ['BAI', 'BEMACS', 'BESS', 'BIEM', 'BIEF - econ', 'BIEF - fin', 'BEMACC', 'CLEAM', 'CLEF', 'CLEACC']
-        if course not in courses:
-            raise Exception(f'The course "{course}" is not valid.')
-        
-        if not isinstance(grades, np.ndarray ):
-            raise ValueError('Grades must be an ndarray')
-        
-        if not isinstance(credits, np.ndarray ):
-            raise ValueError('Credits must be an ndarray')
-        
-        self.grades = grades
-        self.course = course
-        self.credits = credits
+    minimum_credits = 0.6 * np.sum(weights[first_year_mask])
+    first_year_credits = np.sum(weights[first_year_mask & passed_mask])
+
+    if gpa < 22:
+        return 0
+    if first_year_credits < minimum_credits:
+        return 0
+
+    credits_taken = np.sum(weights[passed_mask])
+    delta_credits = credits_taken - minimum_credits
+    bonus = multiplier * delta_credits
+
+    score = gpa + bonus
+    return score
 
 
-        self.multiplier = {"BAI": 1.02, "BEMACS": 1.02, "BESS": 1.02, "BEMACC": 0.98, "CLEACC": 0.98}
 
 
-        def calculate_sces(self):
-            pass
+    
