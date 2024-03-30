@@ -37,6 +37,13 @@ class ExchangeScoreCalculator:
         self.calculate_button = ttk.Button(master, text="Calculate Score", command=self.calculate_score)
         self.calculate_button.grid(row=2, column=0, columnspan=2, padx=10, pady=10)
 
+        self.gpa_label = ttk.Label(master, text="GPA:")
+        self.gpa_label.grid(row=3, column=0, padx=10, pady=5)
+
+        self.score_label = ttk.Label(master, text="Score:")
+        self.score_label.grid(row=3, column=1, padx=10, pady=5)
+
+
     def on_course_select(self, event):
         selected_course = self.course_var.get()
         self.course_data_subset = self.course_data[self.course_data['Course'] == selected_course]
@@ -96,13 +103,38 @@ class ExchangeScoreCalculator:
             
             all_grades.append(grade)
 
-        grades = np.array(all_grades)
-        
         # Check if all grades have been inserted
         if len(all_grades) != len(self.grade_entries):
             messagebox.showerror("Error", "Please insert grades for all exams.")
             return
 
+        self.grades = np.array(all_grades)
+
+        multipliers = {
+            'BAI': 1.02,
+            'BEMACS': 1.02,
+            'BESS': 1.02,
+            'CLEACC': 0.98,
+            'BEMACC': 0.98}
+        
+        course = self.course_var.get()
+        if course in multipliers:
+            multiplier = multipliers[course]
+        else:
+            multiplier = 1
+        
+        weights = np.array(self.course_data_subset['Credits'])
+        seminars = np.array(self.course_data_subset['seminar'])
+
+        self.gpa = calculate_gpa(self.grades, weights, seminars)
+
+        first_year = np.array(self.course_data_subset['first_year'])
+
+        self.score = calculate_score(self.gpa, self.grades, weights, first_year, multiplier)
+
+        # Update labels with calculated GPA and score
+        self.gpa_label.config(text=f"GPA: {self.gpa:.2f}")
+        self.score_label.config(text=f"Score: {self.score:.2f}")
 
 
 def main():
