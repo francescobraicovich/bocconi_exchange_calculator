@@ -16,12 +16,3 @@ def calculate_gpa(grades, weights, seminars):
     mask = seminars == 0
     gpa = np.average(grades[mask], weights=weights[mask])
     return gpa
-
-
-grades = np.arange(5)
-weights = np.ones((5))
-weights[0] = 5
-seminars = np.zeros((5))
-seminars[0] = 1
-
-print(calculate_gpa(grades, weights, seminars))
