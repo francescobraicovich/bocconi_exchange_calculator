@@ -1,4 +1,4 @@
-2023;2022;Institution;Location;Academic;Employer;Citations;H;International;Score
+Ôªø2023;2022;Institution;Location;Academic;Employer;Citations;H;International;Score
 1;1;Massachusetts Institute of Technology (MIT) ;United States;100;98,6;94,7;100;85;97,4
 2;3;University of Cambridge;United Kingdom;97,4;96,4;92,6;95,3;73,5;93,8
 3=;2;Stanford University;United States;96,3;96,7;98,5;96,4;65,5;93,6
@@ -13,8 +13,8 @@
 12;10;University of California, Los Angeles (UCLA);United States;89,6;86,8;89,1;89,8;57,3;85,8
 13;13;National University of Singapore (NUS);Singapore;85,2;92,8;88,8;87,5;59,8;85,1
 14=;14;Institut Polytechnique de Paris;France;85;86,6;84,5;86,4;79,3;84,9
-14=;12;Université PSL;France;85,8;82,5;89,1;90,5;71,7;84,9
-16;19;Université Paris-Saclay;France;83;84,5;83,3;89,5;87,2;84,7
+14=;12;Universit√© PSL;France;85,8;82,5;89,1;90,5;71,7;84,9
+16;19;Universit√© Paris-Saclay;France;83;84,5;83,3;89,5;87,2;84,7
 17;17;California Institute of Technology (Caltech);United States;88,7;90,1;84,3;82,9;55,1;84,1
 18;21=;EPFL;Switzerland;84,4;85;87,8;87,2;67,1;83,7
 19=;26;Carnegie Mellon University;United States;83,2;84,5;90,7;86,7;66,7;83,5
@@ -38,7 +38,7 @@
 37;30;University of Pennsylvania;United States;76,9;81,3;91,8;86,7;54,6;79,3
 38;40;Lomonosov Moscow State University;Russia;87,6;95;62;69,3;52;78,9
 39=;36;Brown University;United States;81,5;69,3;94,9;84,1;47,4;78,1
-39=;49;Rheinische Friedrich-Wilhelms-Universität Bonn;Germany;90,2;48,2;89,6;85,3;61,9;78,1
+39=;49;Rheinische Friedrich-Wilhelms-Universit√§t Bonn;Germany;90,2;48,2;89,6;85,3;61,9;78,1
 41;39;UCL;United Kingdom;72,3;79,5;89,9;87;66,2;78
 42;55;KAIST - Korea Advanced Institute of Science & Technology;South Korea;81,7;80,8;80,7;76,1;55,2;77,9
 43=;51;Technical University of Munich;Germany;77;76,3;81;82,9;70,9;77,7
@@ -50,8 +50,8 @@
 48=;47=;The Australian National University;Australia;77,5;76,7;83,7;81,9;63,2;77,5
 48=;57=;The University of New South Wales (UNSW Sydney);Australia;72,4;78,1;80,1;80,9;87,9;77,5
 51;35;Kyoto University;Japan;80,6;69;82,4;85;59;77,1
-52;53=;Université de Paris-Cité;France;76,9;54,1;85,2;92,1;88,5;77
-53;64;Technische Universität Berlin (TU Berlin);Germany;79,8;68,6;82,7;78,1;71,6;76,9
+52;53=;Universit√© de Paris-Cit√©;France;76,9;54,1;85,2;92,1;88,5;77
+53;64;Technische Universit√§t Berlin (TU Berlin);Germany;79,8;68,6;82,7;78,1;71,6;76,9
 54;53=;Fudan University;China (Mainland);82,7;71,2;80,6;82,3;49,5;76,7
 55=;47=;McGill University;Canada;75,1;83,8;81,8;78,5;55,6;76,4
 55=;61;University of Illinois at Urbana-Champaign;United States;71,8;76,2;84;84,4;71,9;76,4
@@ -65,23 +65,23 @@
 63=;62=;Purdue University;United States;72,3;75,9;83,9;85,6;58,5;75,4
 65;77;Sapienza University of Rome;Italy;75,5;69,5;78,5;79,2;75;75,3
 66=;41=;The Chinese University of Hong Kong (CUHK);Hong Kong SAR;79,4;67,5;89,8;80,3;41,5;74,9
-66=;68;Université de Montréal ;Canada;73,7;73,3;83,6;77,7;65,7;74,9
+66=;68;Universit√© de Montr√©al ;Canada;73,7;73,3;83,6;77,7;65,7;74,9
 68;72=;HSE University;Russia;71,9;84,1;73,9;78,1;64,4;74,8
 69;44=;University of Wisconsin-Madison;United States;71,4;72,1;86,6;83,2;61,4;74,6
 70;66=;The University of Sydney;Australia;73;77,5;84,8;78,8;52,7;74,5
 71=;57=;Johns Hopkins University;United States;70;72,5;94,4;85,3;47;74,2
 71=;72=;King's College London;United Kingdom;67,9;76;88,2;81,9;63,3;74,2
-73;78=;École Normale Supérieure de Lyon;France;75,3;66,7;85,2;78,1;59,7;73,9
+73;78=;√âcole Normale Sup√©rieure de Lyon;France;75,3;66,7;85,2;78,1;59,7;73,9
 74=;70;Tokyo Institute of Technology (Tokyo Tech);Japan;75,8;73,3;76,6;74,1;62,3;73,8
 74=;81;University of Bristol;United Kingdom;65,5;73,1;92,5;86,7;60,9;73,8
 76;89=;Zhejiang University;China (Mainland);75,8;69,7;74,1;82,9;57,8;73,6
 77=;89=;Moscow Institute of Physics and Technology (MIPT / Moscow Phystech);Russia;74,8;85,7;73,3;68,8;51,4;73,5
 77=;85=;Saint Petersburg State University;Russia;75,7;80,7;64,5;71,8;66,7;73,5
 79;78=;University of Maryland, College Park;United States;67,8;69,6;87,7;88,3;59,9;73,4
-80=;82=;Humboldt-Universität zu Berlin;Germany;77,2;61,2;84,2;74,1;63,9;73,3
+80=;82=;Humboldt-Universit√§t zu Berlin;Germany;77,2;61,2;84,2;74,1;63,9;73,3
 80=;85=;Pennsylvania State University;United States;67,8;74,8;81,1;84,1;63,9;73,3
 82;76;Michigan State University;United States;67,6;70,2;86,9;83,5;65,5;73,2
-83;95;Universidade de São Paulo;Brazil;71,7;74,8;71,7;75,3;72,1;72,9
+83;95;Universidade de S√£o Paulo;Brazil;71,7;74,8;71,7;75,3;72,1;72,9
 84;56;The University of Hong Kong;Hong Kong SAR;76,9;74,9;81,9;73,6;37,7;72,8
 85;66=;Northwestern University;United States;68;73,7;90;81,3;50,2;72,7
 86;85=;Monash University;Australia;68;76,3;80,8;75,3;66,7;72,5
@@ -94,13 +94,13 @@
 92=;110;The London School of Economics and Political Science (LSE);United Kingdom;72,4;83,6;77,2;66,6;48,4;72,1
 94;80;University of Amsterdam;Netherlands;68,1;75;86;77,3;50,9;71,8
 95;96;KU Leuven;Belgium;68,3;70,1;79,3;78,8;66,2;71,7
-96=;107;Universidad Nacional Autónoma de México (UNAM);Mexico;70,7;77,7;69,7;70,8;65,7;71,5
-96=;127;Universitat Autònoma de Barcelona;Spain;68,3;63,3;80,6;79,9;74,6;71,5
+96=;107;Universidad Nacional Aut√≥noma de M√©xico (UNAM);Mexico;70,7;77,7;69,7;70,8;65,7;71,5
+96=;127;Universitat Aut√≤noma de Barcelona;Spain;68,3;63,3;80,6;79,9;74,6;71,5
 98=;148;Indian Institute of Technology Madras (IITM);India;74,1;81,1;69,3;66,6;51,5;71,4
 98=;129=;Politecnico di Torino;Italy;66,1;75,7;73,3;74,1;77,2;71,4
 100=;103;The Ohio State University;United States;65,3;67,9;83,4;82,3;67,5;71,3
-100=;113=;Universitat Politècnica de Catalunya · BarcelonaTech (UPC);Spain;65,7;68,6;78,3;79,9;75,8;71,3
-102;92=;Rutgers University–New Brunswick;United States;69,1;62,5;86,3;83,2;56,5;71,2
+100=;113=;Universitat Polit√®cnica de Catalunya ¬∑ BarcelonaTech (UPC);Spain;65,7;68,6;78,3;79,9;75,8;71,3
+102;92=;Rutgers University‚ÄìNew Brunswick;United States;69,1;62,5;86,3;83,2;56,5;71,2
 103;99=;University of Minnesota Twin Cities;United States;71,4;57,4;83,7;84,1;58,5;71,1
 104=;151-200;King Fahd University of Petroleum & Minerals;Saudi Arabia;68,9;65,2;79,6;74,1;72,6;70,9
 104=;115=;The University of Auckland;New Zealand;71,1;73,6;76,6;70,3;56,6;70,9
@@ -110,15 +110,15 @@
 109;84;National Taiwan University (NTU);Taiwan;77,5;75,1;73,1;68,2;32,5;70,5
 110=;117=;Novosibirsk State University;Russia;78;77,9;60,9;62,2;51,5;70,4
 110=;138=;Queen Mary University of London;United Kingdom;61,7;67,2;88;82,3;67;70,4
-110=;101=;Universidad Autónoma de Madrid;Spain;67,9;67,7;83,6;78,1;54,3;70,4
+110=;101=;Universidad Aut√≥noma de Madrid;Spain;67,9;67,7;83,6;78,1;54,3;70,4
 113=;122;Freie Universitaet Berlin;Germany;70,6;64;82,3;70,8;63,4;70,3
-113=;124=;Ruprecht-Karls-Universität Heidelberg;Germany;70,1;59,6;87,7;75,3;58,6;70,3
+113=;124=;Ruprecht-Karls-Universit√§t Heidelberg;Germany;70,1;59,6;87,7;75,3;58,6;70,3
 113=;151-200;University of Leeds;United Kingdom;59,8;71,3;84,4;78,1;77,1;70,3
 116=;142=;Indian Institute of Science;India;74,5;70;72,8;70,8;48,8;70,2
 116=;74=;Technion - Israel Institute of Technology;Israel;74,1;62,8;81,2;77,7;42,1;70,2
 116=;92=;University of Copenhagen;Denmark;68,1;61;86,9;81,6;54,7;70,2
 119=;128;Indian Institute of Technology Delhi (IITD);India;75,2;82,5;67,9;66,6;33,7;70,1
-119=;144=;Université Grenoble Alpes;France;65,8;55,8;78,9;83,2;83,2;70,1
+119=;144=;Universit√© Grenoble Alpes;France;65,8;55,8;78,9;83,2;83,2;70,1
 121;151-200;Technical University of Denmark;Denmark;62,4;64,8;90,1;78,5;68,2;70
 122;132=;Indian Institute of Technology Kanpur (IITK);India;75,2;78,9;70,5;62,9;40;69,9
 123;82=;Scuola Normale Superiore di Pisa;Italy;79,1;64,5;76,8;71,3;30,7;69,8
@@ -128,11 +128,11 @@
 127;129=;Chalmers University of Technology;Sweden;65,7;61,1;83,1;77,7;68,4;69,5
 128=;104=;Korea University;South Korea;71,8;73,6;82,9;70,8;29,2;69,4
 128=;151-200;Yonsei University;South Korea;74,2;74,9;75,6;64,8;37,2;69,4
-130=;151-200;Technische Universität Wien;Austria;67,4;59,5;77,8;75,3;74,9;69,3
+130=;151-200;Technische Universit√§t Wien;Austria;67,4;59,5;77,8;75,3;74,9;69,3
 130=;113=;Tel Aviv University;Israel;71,4;55,8;83,7;82,3;46,8;69,3
 130=;124=;Universidade Estadual de Campinas (Unicamp);Brazil;69,3;69,5;72,9;69,8;62,3;69,3
-130=;115=;Université catholique de Louvain (UCLouvain);Belgium;66,5;62,3;88,5;75,3;57,1;69,3
-134=;111=;Ludwig-Maximilians-Universität München;Germany;68,4;64;86,6;75,7;46,8;69,2
+130=;115=;Universit√© catholique de Louvain (UCLouvain);Belgium;66,5;62,3;88,5;75,3;57,1;69,3
+134=;111=;Ludwig-Maximilians-Universit√§t M√ºnchen;Germany;68,4;64;86,6;75,7;46,8;69,2
 134=;132=;Universidad de Chile;Chile;66,2;70,5;78;69,8;64,4;69,2
 136;108;RWTH Aachen University;Germany;67,2;67,8;77,8;75,3;56,8;69,1
 137=;144=;Alma Mater Studiorum - University of Bologna;Italy;61,8;70,6;77,9;74,5;70,6;68,8
@@ -164,29 +164,29 @@
 151-200;201-250;National Tsing Hua University;Taiwan;62,3;73,6;87,9;62,9;37,6;
 151-200;151-200;Norwegian University of Science And Technology;Norway;61,4;56,7;79,2;78,5;71;
 151-200;136=;Osaka University;Japan;68,4;66,4;73,2;72,7;43,4;
-151-200;151-200;Pontificia Universidad Católica de Chile (UC);Chile;66,2;73,1;71,8;64,2;53,3;
+151-200;151-200;Pontificia Universidad Cat√≥lica de Chile (UC);Chile;66,2;73,1;71,8;64,2;53,3;
 151-200;201-250;Quaid-i-Azam University;Pakistan;63,9;59,6;84,2;70,8;52,2;
 151-200;138=;Rice University;United States;61,3;66,1;85;74,5;53,4;
 151-200;251-300;Shandong University;China (Mainland);67,4;54,5;71,9;79,6;54,6;
 151-200;201-250;Stockholm University;Sweden;61,3;58,7;82,7;71,3;64,7;
 151-200;123;Stony Brook University, State University of New York;United States;66,3;55,9;85;79,2;46,6;
 151-200;151-200;Sungkyunkwan University(SKKU);South Korea;68,4;70;75,5;69,3;38,3;
-151-200;201-250;Technische Universität Dresden;Germany;60,1;62,2;74,2;71,3;81,9;
+151-200;201-250;Technische Universit√§t Dresden;Germany;60,1;62,2;74,2;71,3;81,9;
 151-200;109;The Hong Kong Polytechnic University;Hong Kong SAR;66;60,7;85,9;80,6;37,7;
 151-200;144=;The University of Adelaide;Australia;60,6;63,8;87,6;76,5;45,6;
 151-200;201-250;The University of Western Australia;Australia;61,1;62,8;82,5;71,8;62,6;
 151-200;142=;Tohoku University;Japan;68,2;65,8;76,8;71,3;50,9;
-151-200;151-200;Universidad Politécnica de Madrid (UPM);Spain;61,3;73,3;72,6;66;69,2;
+151-200;151-200;Universidad Polit√©cnica de Madrid (UPM);Spain;61,3;73,3;72,6;66;69,2;
 151-200;151-200;Universidade Federal do Rio de Janeiro;Brazil;65,7;63,2;73,1;69,8;58,9;
-151-200;151-200;Università di Padova;Italy;62,9;60,6;78,1;76,9;64,4;
-151-200;151-200;Universität Stuttgart;Germany;64,8;61,5;78,4;77,7;55,4;
+151-200;151-200;Universit√†¬†di Padova;Italy;62,9;60,6;78,1;76,9;64,4;
+151-200;151-200;Universit√§t Stuttgart;Germany;64,8;61,5;78,4;77,7;55,4;
 151-200;151-200;Universite libre de Bruxelles;Belgium;63;61,9;80,9;71,8;60,1;
 151-200;149=;University of California, Davis;United States;55,2;67,6;88,5;81,3;51,9;
 151-200;149=;University of California, Irvine;United States;58,9;65,3;82,9;78,5;52,5;
 151-200;151-200;University of California, Santa Barbara (UCSB);United States;60,1;61,2;84,7;76,5;61;
 151-200;151-200;University of Colorado Boulder;United States;58,3;64,7;86,2;77,7;49,4;
 151-200;151-200;University of Glasgow;United Kingdom;59,9;67,6;82,1;71,8;63,8;
-151-200;151-200;University of Göttingen;Germany;66,5;47;86,2;75,3;55,8;
+151-200;151-200;University of G√∂ttingen;Germany;66,5;47;86,2;75,3;55,8;
 151-200;251-300;University of Granada;Spain;60;55,6;78,4;74,9;76,6;
 151-200;151-200;University of Helsinki;Finland;63,4;59,1;87;78,8;51;
 151-200;151-200;University of Lisbon ;Portugal;62,7;58;75,6;74,5;68,5;
@@ -197,7 +197,7 @@
 151-200;151-200;Utrecht University;Netherlands;64;64,2;84,9;73,6;50,9;
 151-200;151-200;Virginia Polytechnic Institute and State University;United States;58,4;64,1;84,1;80,3;59,7;
 151-200;138=;Waseda University;Japan;67,9;67,3;72,4;67,1;47,3;
-151-200;151-200;Westfälische Wilhelms-Universität Münster ;Germany;66,3;53,7;90,6;75,3;47,7;
+151-200;151-200;Westf√§lische Wilhelms-Universit√§t M√ºnster ;Germany;66,3;53,7;90,6;75,3;47,7;
 151-200;151-200;Wuhan University;China (Mainland);62,7;61,3;76;82,6;53,8;
 201-250;201-250;Aix-Marseille University;France;65,1;48,2;76,8;78,8;64,7;
 201-250;251-300;Arizona State University;United States;51,1;66,4;79,8;76,5;67,3;
@@ -207,11 +207,11 @@
 201-250;301-350;Cairo University;Egypt;54,1;65,9;79,2;71,3;62,1;
 201-250;151-200;City University of New York;United States;54;66,4;77,9;74,9;60;
 201-250;201-250;Durham University;United Kingdom;56;72,2;77,1;69,8;50,6;
-201-250;251-300;Friedrich-Alexander-Universität Erlangen-Nürnberg;Germany;54,3;60,1;81,6;77,3;66,5;
+201-250;251-300;Friedrich-Alexander-Universit√§t Erlangen-N√ºrnberg;Germany;54,3;60,1;81,6;77,3;66,5;
 201-250;251-300;Ghent University;Belgium;59,5;51,6;79,1;72,2;87,6;
 201-250;151-200;Heriot-Watt University;United Kingdom;57,3;64;81,7;74,9;54,2;
 201-250;251-300;Indian Institute of Technology Roorkee (IITR);India;66,8;68,3;70,9;61,5;32,4;
-201-250;151-200;Instituto Nacional de Matemática Pura e Aplicada (IMPA);Brazil;78;31,6;77,6;72,7;45,9;
+201-250;151-200;Instituto Nacional de Matem√°tica Pura e Aplicada (IMPA);Brazil;78;31,6;77,6;72,7;45,9;
 201-250;151-200;Kyushu University;Japan;65,7;61,6;75,5;70,3;43,1;
 201-250;201-250;Lancaster University;United Kingdom;51,5;65,4;90,2;76,1;60,1;
 201-250;151-200;Lund University;Sweden;61,6;64,7;78,6;68,8;52;
@@ -233,11 +233,11 @@
 201-250;251-300;Trinity College Dublin, The University of Dublin;Ireland;58;74,9;70,2;62,2;51,2;
 201-250;151-200;Universidad Carlos III de Madrid (UC3M);Spain;56,5;66,5;78,9;75,7;60,8;
 201-250;251-300;Universidad de Sevilla;Spain;64,6;53;73,3;70,8;71,9;
-201-250;251-300;Universität Hamburg;Germany;59;56,7;81,6;72,2;56,3;
-201-250;201-250;Université Claude Bernard Lyon 1;France;62;42,3;77,3;76,9;88,2;
-201-250;251-300;Université de Rennes 1;France;57;56,4;80;74,5;70,6;
-201-250;201-250;Université du Québec;Canada;54,9;57,8;80;77,7;81;
-201-250;151-200;Université Paul Sabatier Toulouse III;France;66,9;43,8;82,7;76,9;62,7;
+201-250;251-300;Universit√§t Hamburg;Germany;59;56,7;81,6;72,2;56,3;
+201-250;201-250;Universit√© Claude Bernard Lyon 1;France;62;42,3;77,3;76,9;88,2;
+201-250;251-300;Universit√© de Rennes 1;France;57;56,4;80;74,5;70,6;
+201-250;201-250;Universit√© du Qu√©bec;Canada;54,9;57,8;80;77,7;81;
+201-250;151-200;Universit√© Paul Sabatier Toulouse III;France;66,9;43,8;82,7;76,9;62,7;
 201-250;301-350;Universiti Sains Malaysia (USM);Malaysia;66,9;59,4;71,3;60,8;50,6;
 201-250;251-300;Universiti Teknologi Malaysia ;Malaysia;65,6;63,3;70,8;63,5;52,9;
 201-250;201-250;University College Dublin;Ireland;56,4;68;79,5;66,6;51,6;
@@ -251,7 +251,7 @@
 201-250;201-250;University of Oslo;Norway;59;52,7;84,6;75,7;50,2;
 201-250;201-250;University of St Andrews;United Kingdom;61,2;66,3;73,2;66;48,2;
 201-250;151-200;University of Technology Sydney;Australia;58,2;65,9;82,4;73,2;58,4;
-201-250;201-250;Xi’an Jiaotong University;China (Mainland);59,7;58,8;74,7;80,9;56,4;
+201-250;201-250;Xi‚Äôan Jiaotong University;China (Mainland);59,7;58,8;74,7;80,9;56,4;
 251-300;351-400;Aalborg University;Denmark;52,2;53,9;78,1;70,3;81,3;
 251-300;251-300;Aarhus University;Denmark;57,1;53,5;82,3;72,7;56,1;
 251-300;251-300;Al-Farabi Kazakh National University;Kazakhstan;66,4;63,4;62,2;58,6;49;
@@ -263,15 +263,15 @@
 251-300;351-400;COMSATS University Islamabad;Pakistan;54,5;56,5;75,2;68,2;66,6;
 251-300;201-250;Curtin University;Australia;54;59,7;81,4;72,7;50;
 251-300;251-300;Czech Technical University in Prague;Czech Republic;58,2;58,9;73,4;67,1;52,4;
-251-300;251-300;Eötvös Loránd University;Hungary;61,5;58,1;73,5;66;42,5;
+251-300;251-300;E√∂tv√∂s Lor√°nd University;Hungary;61,5;58,1;73,5;66;42,5;
 251-300;201-250;Florida State University;United States;54;65;83,6;70,3;39,8;
 251-300;251-300;Huazhong University of Science and Technology;China (Mainland);58,2;55,6;77,4;80,9;47,6;
-251-300;201-250;Instituto Politécnico Nacional (IPN);Mexico;59;68,8;65,8;67,1;46,3;
+251-300;201-250;Instituto Polit√©cnico Nacional (IPN);Mexico;59;68,8;65,8;67,1;46,3;
 251-300;301-350;Istanbul Technical University;Turkey;57;69,7;70,3;62,2;45,5;
 251-300;251-300;ITMO University;Russia;58,9;76,3;60,9;58,6;59,7;
 251-300;301-350;Kazan (Volga region) Federal University;Russia;59,1;61,8;64,9;66,6;59,6;
 251-300;401-450;Khalifa University of Science and Technology;United Arab Emirates;65,1;57,2;73;60,8;55,4;
-251-300;251-300;Linköping University;Sweden;50,5;60,3;87,3;71,3;59,4;
+251-300;251-300;Link√∂ping University;Sweden;50,5;60,3;87,3;71,3;59,4;
 251-300;251-300;Loughborough University;United Kingdom;54,9;63,7;79,6;65,4;57,2;
 251-300;251-300;Newcastle University;United Kingdom;47,1;65;81,9;74,1;61,5;
 251-300;251-300;Scuola Internazionale Superiore di Studi Avanzati (SISSA);Italy;59,4;36,5;89,4;78,5;49,7;
@@ -279,11 +279,11 @@
 251-300;251-300;The University of Arizona;United States;51,7;65,8;74,9;72,7;56,1;
 251-300;301-350;The University of Sheffield;United Kingdom;49,8;64,3;79,7;73,6;56,5;
 251-300;351-400;Ton Duc Thang University;Vietnam;49;39,4;85,8;81,6;98;
-251-300;201-250;Università degli Studi di Pavia;Italy;59;50,6;83,1;72,2;42,3;
-251-300;351-400;Universitat Politècnica de València;Spain;52,4;58,1;74,5;72,2;72,4;
-251-300;201-250;Université Côte d\'Azur;France;58,4;45,6;79,4;77,7;63,5;
-251-300;251-300;Université de Montpellier;France;51,3;45,8;82;75,7;80,4;
-251-300;251-300;Université de Strasbourg;France;60,2;47;78;70,8;64,6;
+251-300;201-250;Universit√† degli Studi di Pavia;Italy;59;50,6;83,1;72,2;42,3;
+251-300;351-400;Universitat Polit√®cnica de Val√®ncia;Spain;52,4;58,1;74,5;72,2;72,4;
+251-300;201-250;Universit√© C√¥te d\'Azur;France;58,4;45,6;79,4;77,7;63,5;
+251-300;251-300;Universit√© de Montpellier;France;51,3;45,8;82;75,7;80,4;
+251-300;251-300;Universit√© de Strasbourg;France;60,2;47;78;70,8;64,6;
 251-300;301-350;Universiti Kebangsaan Malaysia (UKM);Malaysia;60,9;59,1;72,3;61,5;56,2;
 251-300;301-350;University of Bergen;Norway;58,4;46;86,6;72,7;57,2;
 251-300;201-250;University of Calgary;Canada;56,7;72,2;73,4;64,2;47,5;
@@ -327,9 +327,9 @@
 301-350;251-300;Universidad Nacional de Colombia;Colombia;62;69,1;62,8;57;41,7;
 301-350;301-350;Universidade Federal de Minas Gerais      ;Brazil;59,8;57,3;73,5;64,2;41,7;
 301-350;301-350;Universitat Pompeu Fabra (Barcelona);Spain;52,4;57,4;81,8;72,7;44,9;
-301-350;301-350;Université de Lille;France;59,1;34;76;77,3;67,5;
-301-350;351-400;Université de Lorraine;France;55,8;42,8;75,4;73,6;76,9;
-301-350;401-450;Université Sorbonne Paris Nord;France;54,6;47,5;80,4;72,2;67,5;
+301-350;301-350;Universit√© de Lille;France;59,1;34;76;77,3;67,5;
+301-350;351-400;Universit√© de Lorraine;France;55,8;42,8;75,4;73,6;76,9;
+301-350;401-450;Universit√© Sorbonne Paris Nord;France;54,6;47,5;80,4;72,2;67,5;
 301-350;351-400;Universiti Putra Malaysia (UPM);Malaysia;60,5;60,6;69,8;60,1;46,5;
 301-350;301-350;University of Florence;Italy;56,7;46;80,5;76,1;52,2;
 301-350;401-450;University of Galway;Ireland;46,7;64,7;75,7;68,2;63,6;
@@ -360,7 +360,7 @@
 351-400;401-450;City, University of London;United Kingdom;48,5;64,5;72,9;64,8;48,8;
 351-400;301-350;Colorado State University;United States;46,9;61,8;81,2;69,3;37,1;
 351-400;301-350;Concordia University;Canada;46,4;62,6;76,9;69,3;43,9;
-351-400;351-400;Eberhard Karls Universität Tübingen;Germany;55;49,8;78,3;68,2;50,2;
+351-400;351-400;Eberhard Karls Universit√§t T√ºbingen;Germany;55;49,8;78,3;68,2;50,2;
 351-400;301-350;Goethe-University Frankfurt am Main;Germany;51,3;53,6;79,1;71,3;52,7;
 351-400;351-400;Hanoi University of Science and Technology;Vietnam;57;50,1;70,6;62,2;60;
 351-400;301-350;Hong Kong Baptist University;Hong Kong SAR;59,6;39,4;79,6;68,8;34,4;
@@ -373,19 +373,19 @@
 351-400;451-500;National University of Uzbekistan;Uzbekistan;73,1;68,1;47,5;46,1;23,7;
 351-400;;Oxford Brookes University;United Kingdom;61;71,3;53,5;46,1;38;
 351-400;301-350;Peter the Great St. Petersburg Polytechnic University;Russia;62,5;68,1;64,2;53,5;30,5;
-351-400;351-400;Pontifícia Universidade Católica do Rio de Janeiro;Brazil;58,8;58,8;69,5;60,8;34;
+351-400;351-400;Pontif√≠cia Universidade Cat√≥lica do Rio de Janeiro;Brazil;58,8;58,8;69,5;60,8;34;
 351-400;401-450;Qatar University;Qatar;49,2;58;75,7;62,2;59,3;
 351-400;351-400;Sharif University of Technology;Iran, Islamic Republic of;55,8;51;74,9;62,9;44,4;
 351-400;251-300;Southeast University;China (Mainland);49,6;38,9;80,4;87,5;56,9;
 351-400;351-400;Taras Shevchenko National University of Kyiv;Ukraine;59,7;68;60,6;50,6;38,3;
-351-400;351-400;Technische Universität Kaiserslautern;Germany;60,7;44,1;74,7;66,6;49,2;
+351-400;351-400;Technische Universit√§t Kaiserslautern;Germany;60,7;44,1;74,7;66,6;49,2;
 351-400;301-350;The University of Tennessee, Knoxville;United States;52,6;56,8;79,7;71,8;43,5;
 351-400;351-400;Tokyo University of Science;Japan;55,1;56,4;70,6;62,9;43,4;
 351-400;351-400;Tomsk State University;Russia;58;71,4;54;54,4;52,9;
 351-400;401-450;United Arab Emirates University;United Arab Emirates;52,4;62,1;70,7;63,5;40;
 351-400;401-450;Universidad de Santiago de Chile (USACH);Chile;56,9;64;62;57,8;39,2;
-351-400;351-400;Universität Leipzig;Germany;60,2;47,2;71,8;62,9;42,4;
-351-400;351-400;Université Laval;Canada;45,5;62,6;84;63,5;51,2;
+351-400;351-400;Universit√§t Leipzig;Germany;60,2;47,2;71,8;62,9;42,4;
+351-400;351-400;Universit√© Laval;Canada;45,5;62,6;84;63,5;51,2;
 351-400;451-500;University of Aveiro;Portugal;50,2;46,2;75,8;67,7;70,5;
 351-400;301-350;University of Central Florida;United States;53,4;52,3;76,6;70,8;44,8;
 351-400;301-350;University of Cologne;Germany;45,9;55,7;81,7;73,6;56,1;
@@ -415,7 +415,7 @@
 401-450;351-400;Hiroshima University;Japan;55,3;51,7;67,8;62,2;45;
 401-450;;Jilin University;China (Mainland);48,4;58,5;71,3;72,2;34,5;
 401-450;;King Mongkut's University of Technology Thonburi ;Thailand;61,9;44,3;66,2;62,9;35,7;
-401-450;351-400;Koç University;Turkey;55,4;65,8;65,3;58,6;30,8;
+401-450;351-400;Ko√ß University;Turkey;55,4;65,8;65,3;58,6;30,8;
 401-450;351-400;Kyungpook National University;South Korea;57,2;51,9;69;61,5;27,2;
 401-450;451-500;National Research Tomsk Polytechnic University;Russia;56,1;62,9;60;50,6;51,7;
 401-450;401-450;Pusan National University;South Korea;60,3;51,9;69,9;60,1;25,3;
@@ -426,23 +426,23 @@
 401-450;451-500;Southern University of Science and Technology;China (Mainland);62,4;27,6;78;68,8;35;
 401-450;451-500;Tampere University;Finland;48,2;48,8;76,6;64,2;70,1;
 401-450;401-450;TU Dortmund University;Germany;48,6;53,4;74,1;64,2;62,3;
-401-450;401-450;Universidad Técnica Federico Santa María (USM);Chile;55,3;52,8;68,6;57,8;49,8;
-401-450;451-500;Universidade de Brasília;Brazil;54,5;47,9;69,1;57,8;53,7;
+401-450;401-450;Universidad T√©cnica Federico Santa Mar√≠a (USM);Chile;55,3;52,8;68,6;57,8;49,8;
+401-450;451-500;Universidade de Bras√≠lia;Brazil;54,5;47,9;69,1;57,8;53,7;
 401-450;351-400;Universidade de Santiago de Compostela;Spain;52,2;50,1;75,7;64,8;48,5;
 401-450;351-400;Universidade Nova de Lisboa;Portugal;48,8;58,2;70,1;60,8;51,6;
-401-450;401-450;Università degli studi Roma Tre;Italy;57,2;46,3;75,3;64,2;33,9;
+401-450;401-450;Universit√† degli studi Roma Tre;Italy;57,2;46,3;75,3;64,2;33,9;
 401-450;451-500;Universitat de Valencia;Spain;51,1;47;74,1;65,4;60,4;
-401-450;401-450;Universität des Saarlandes;Germany;57,3;38,6;76,5;67,1;48,2;
-401-450;351-400;Universität Duisburg-Essen;Germany;53,2;32,6;80,5;73,2;56;
-401-450;401-450;Universität Jena;Germany;49,9;43,8;78,2;66;52,5;
-401-450;451-500;Université Paris 1 Panthéon-Sorbonne ;France;62,6;74,6;46,4;42,1;32,7;
-401-450;351-400;Université Paris-Est Créteil;France;45,4;41;80,2;73,2;63,8;
+401-450;401-450;Universit√§t des Saarlandes;Germany;57,3;38,6;76,5;67,1;48,2;
+401-450;351-400;Universit√§t Duisburg-Essen;Germany;53,2;32,6;80,5;73,2;56;
+401-450;401-450;Universit√§t Jena;Germany;49,9;43,8;78,2;66;52,5;
+401-450;451-500;Universit√© Paris 1 Panth√©on-Sorbonne ;France;62,6;74,6;46,4;42,1;32,7;
+401-450;351-400;Universit√© Paris-Est Cr√©teil;France;45,4;41;80,2;73,2;63,8;
 401-450;451-500;University of Bern;Switzerland;47,7;52,7;74;67,1;50,9;
 401-450;351-400;University of Bucharest;Romania;55,9;57,1;64,7;61,5;41,6;
 401-450;451-500;University of Cape Town;South Africa;54,3;58,6;64,3;57;42,4;
 401-450;301-350;University of Connecticut;United States;43;55,4;81;74,5;45,9;
 401-450;401-450;University of Delaware;United States;47,3;56,1;79,4;66,6;36,5;
-401-450;401-450;University of Jyväskylä;Finland;50,5;46,9;80,8;73,6;44;
+401-450;401-450;University of Jyv√§skyl√§;Finland;50,5;46,9;80,8;73,6;44;
 401-450;401-450;University of Oulu;Finland;44,9;45,9;84,7;70,3;51,8;
 401-450;501-520;University of Pretoria;South Africa;45,4;52,3;71,7;59,4;76,6;
 401-450;351-400;University of Rochester;United States;43,4;67,7;81;67,1;37,4;
@@ -453,9 +453,9 @@
 451-500;501-520;American University of Beirut (AUB);Lebanon;57,1;65;54,9;49,5;31,5;
 451-500;401-450;Beijing University of Technology;China (Mainland);48,6;55,4;67;63,5;38,7;
 451-500;451-500;Birla Institute of Technology and Science, Pilani;India;54,9;66;63,4;53,5;15,5;
-451-500;401-450;Bo_aziçi University;Turkey;54,1;67,6;61,4;55,3;21,5;
+451-500;401-450;Bo_azi√ßi University;Turkey;54,1;67,6;61,4;55,3;21,5;
 451-500;401-450;Boston College;United States;47,6;60,1;71,8;67,7;21;
-451-500;;Cankaya Üniversitesi;Turkey;46,3;19,1;96,5;84,4;53,1;
+451-500;;Cankaya √úniversitesi;Turkey;46,3;19,1;96,5;84,4;53,1;
 451-500;;Chiang Mai University;Thailand;53,3;55,9;68,6;62,9;26,5;
 451-500;351-400;Dartmouth College;United States;45;66,6;71,3;64,8;29,9;
 451-500;451-500;Gadjah Mada University;Indonesia;60,8;70,3;51,9;42,1;25,3;
@@ -466,19 +466,19 @@
 451-500;451-500;Memorial University of Newfoundland;Canada;38,4;57,5;79,9;71,8;53,2;
 451-500;451-500;Nanjing University of Aeronautics and Astronautics;China (Mainland);49,4;44,9;70,7;73,6;42,6;
 451-500;451-500;New Jersey Institute of Technology (NJIT);United States;42,5;61,4;75,5;63,5;40,8;
-451-500;;Pontificia Universidad Católica de Valparaíso;Chile;53,3;59,9;57,1;57;41,3;
+451-500;;Pontificia Universidad Cat√≥lica de Valpara√≠so;Chile;53,3;59,9;57,1;57;41,3;
 451-500;401-450;Radboud University ;Netherlands;41,7;53,1;77;69,3;51,6;
-451-500;401-450;Ruhr-Universität Bochum;Germany;48,8;50,1;75;66;46,6;
+451-500;401-450;Ruhr-Universit√§t Bochum;Germany;48,8;50,1;75;66;46,6;
 451-500;451-500;Sabanci University;Turkey;54,3;62,9;59,3;51,6;32,4;
 451-500;;Sejong University ;South Korea;52,9;53,9;70,9;61,5;33,5;
 451-500;451-500;Skolkovo Institute of Science and Technology;Russia;47,8;52,3;83,8;63,5;37,9;
 451-500;351-400;Texas Tech University;United States;55,5;55,3;73,4;59,4;12,8;
 451-500;;Ulsan National Institute of Science and Technology (UNIST);South Korea;59;55,3;64,5;55,3;20,5;
 451-500;451-500;Universidad de Zaragoza;Spain;48,2;41,8;78,7;67,1;50,9;
-451-500;451-500;Universidad Nacional de Córdoba - UNC;Argentina;53,7;53,6;65,3;60,8;33,1;
+451-500;451-500;Universidad Nacional de C√≥rdoba - UNC;Argentina;53,7;53,6;65,3;60,8;33,1;
 451-500;501-520;Universidade Federal de Santa Catarina ;Brazil;50,4;49,3;69,7;60,8;42,7;
 451-500;501-520;Universidade Federal do Rio Grande Do Sul ;Brazil;51,6;46,9;70,3;62,9;54,2;
-451-500;501-520;Université de Liège;Belgium;49;51,8;69,7;60,1;45,6;
+451-500;501-520;Universit√© de Li√®ge;Belgium;49;51,8;69,7;60,1;45,6;
 451-500;401-450;University at Buffalo SUNY;United States;44,3;52,9;78,4;70,8;40,9;
 451-500;351-400;University of Aberdeen;United Kingdom;49,9;54,6;74;66,6;35,5;
 451-500;501-520;University of Antwerp;Belgium;52;47,3;71;59,4;51,2;
@@ -516,15 +516,15 @@
 501-530;401-450;National Central University;Taiwan;52,6;58,7;64,6;57;20,9;
 501-530;;Stellenbosch University;South Africa;45,7;48,4;69;63,5;52,6;
 501-530;451-500;Swinburne University of Technology;Australia;38,4;55,8;79;68,2;43,5;
-501-530;401-450;Technische Universität Braunschweig;Germany;42,5;53,3;78,1;64,2;47;
+501-530;401-450;Technische Universit√§t Braunschweig;Germany;42,5;53,3;78,1;64,2;47;
 501-530;451-500;Temple University;United States;40,7;51,2;85,7;68,2;35,5;
 501-530;;Thapar Institute of Engineering & Technology;India;40,7;50,2;79,8;69,8;42,3;
-501-530;501-520;Universidad de Concepción;Chile;54,6;56,8;57,3;53,5;37,4;
-501-530;451-500;Universidade Federal de São Carlos (UFSCar);Brazil;52,2;53,9;65,9;60,8;31,6;
-501-530;;Universidade Federal do Ceará (UFC);Brazil;53,4;39,7;67,5;60,8;51;
+501-530;501-520;Universidad de Concepci√≥n;Chile;54,6;56,8;57,3;53,5;37,4;
+501-530;451-500;Universidade Federal de S√£o Carlos (UFSCar);Brazil;52,2;53,9;65,9;60,8;31,6;
+501-530;;Universidade Federal do Cear√° (UFC);Brazil;53,4;39,7;67,5;60,8;51;
 501-530;;Universitas Indonesia;Indonesia;58,6;70,1;48,1;40,6;22,2;
-501-530;;Universität Innsbruck;Austria;48,6;49,8;67,2;64,2;45,3;
-501-530;401-450;Universität Regensburg;Germany;49,1;38,4;79,3;72,7;29,5;
+501-530;;Universit√§t Innsbruck;Austria;48,6;49,8;67,2;64,2;45,3;
+501-530;401-450;Universit√§t Regensburg;Germany;49,1;38,4;79,3;72,7;29,5;
 501-530;501-520;University College Cork;Ireland;47;64;64,9;60,1;27,8;
 501-530;451-500;University of California, Santa Cruz;United States;44,4;45,2;79,7;68,8;44;
 501-530;401-450;University of Macau;Macau SAR;49,2;37;81;71,8;33,4;

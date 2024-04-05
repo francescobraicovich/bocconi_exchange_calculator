@@ -1,4 +1,4 @@
-2023;2022;Institution;Location;Academic;Employer;Citations;H;Score
+Ôªø2023;2022;Institution;Location;Academic;Employer;Citations;H;Score
 1;1;University of Sussex;United Kingdom;100;79,6;98,4;98,7;97,5
 2;2;SOAS University of London ;United Kingdom;97,4;79,6;92,7;85,8;93,2
 3;4;The London School of Economics and Political Science (LSE);United Kingdom;88,8;100;98,9;100;93,1
@@ -21,7 +21,7 @@
 20;42;University of Leeds;United Kingdom;74,3;73,7;95,6;89,8;79,8
 21;31;University of Toronto;Canada;76,2;72;92,9;84,2;79,5
 22=;21;University of Amsterdam;Netherlands;73,3;79,8;96,2;85,8;79,3
-22=;18=;University of Göttingen;Germany;75;65,9;95,3;89,2;79,3
+22=;18=;University of G√∂ttingen;Germany;75;65,9;95,3;89,2;79,3
 24;20;Cornell University;United States;75,9;60,9;96,6;86,5;79,1
 25;34=;University of British Columbia;Canada;74,5;72,2;95,9;82,6;78,7
 26;23;Leiden University;Netherlands;74,2;79,2;92,6;79,9;78,3
@@ -29,7 +29,7 @@
 28;29;Lund University;Sweden;77,7;54;91,8;78,9;77,6
 29;45;Massey University;New Zealand;75,4;61,5;93,9;77,9;77,2
 30=;26;The University of Edinburgh;United Kingdom;72,3;79;89,8;82,6;77,1
-30=;30;Universidad Nacional Autónoma de México (UNAM);Mexico;77,2;87,7;79;68;77,1
+30=;30;Universidad Nacional Aut√≥noma de M√©xico (UNAM);Mexico;77,2;87,7;79;68;77,1
 32;22;University of Witwatersrand;South Africa;74,4;63,4;87,5;85,8;77
 33;39;Makerere University;Uganda;77;60,8;86,9;75,8;76,7
 34;33;The University of Sydney;Australia;69,9;82,2;94;80,8;76,4
@@ -40,7 +40,7 @@
 39=;49;Johns Hopkins University;United States;69,9;72,5;93;79,9;75,1
 39=;24;The University of Hong Kong;Hong Kong SAR;70,4;76,5;90,2;77,9;75,1
 39=;43;Universidad de los Andes;Colombia;74,1;76,7;83,9;69,5;75,1
-39=;37=;Université Paris 1 Panthéon-Sorbonne ;France;71,7;91;85,1;68;75,1
+39=;37=;Universit√© Paris 1 Panth√©on-Sorbonne ;France;71,7;91;85,1;68;75,1
 43;50;Victoria University of Wellington;New Zealand;75,1;66,4;84,4;69,5;74,8
 44;44;University of California, Davis;United States;72,5;46,3;98;78,9;74,7
 45;48;Yonsei University;South Korea;76,4;77,4;78,7;60,9;74,5
@@ -80,8 +80,8 @@
 51-100;51-100;The University of Warwick;United Kingdom;65,4;69,3;94,5;79,9;
 51-100;51-100;Universidade Estadual de Campinas (Unicamp);Brazil;70,5;75,1;66,4;53,9;
 51-100;;Universitas Indonesia;Indonesia;67,3;76;76,4;56,5;
-51-100;51-100;Université catholique de Louvain (UCLouvain);Belgium;60,6;83;88,5;73,5;
-51-100;51-100;Université Paris-Saclay;France;65,2;81,5;90,1;73,5;
+51-100;51-100;Universit√© catholique de Louvain (UCLouvain);Belgium;60,6;83;88,5;73,5;
+51-100;51-100;Universit√© Paris-Saclay;France;65,2;81,5;90,1;73,5;
 51-100;51-100;Universiti Malaya (UM);Malaysia;62,8;57,9;89,8;78,9;
 51-100;51-100;University of Bath;United Kingdom;62,8;62,7;89,1;79,9;
 51-100;51-100;University of Bern;Switzerland;62,1;63,2;89,4;72,2;
