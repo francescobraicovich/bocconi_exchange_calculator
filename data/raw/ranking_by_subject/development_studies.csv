@@ -1,0 +1,122 @@
+﻿2023;2022;Institution;Location;Academic;Employer;Citations;H;Score
+1;1;University of Sussex;United Kingdom;100;79,6;98,4;98,7;97,5
+2;2;SOAS University of London ;United Kingdom;97,4;79,6;92,7;85,8;93,2
+3;4;The London School of Economics and Political Science (LSE);United Kingdom;88,8;100;98,9;100;93,1
+4;3;University of Oxford;United Kingdom;90;95,1;94;96,4;92,1
+5;6;Harvard University;United States;90,5;96,2;93,4;84,2;90,6
+6;5;University of Cambridge;United Kingdom;88,8;94,3;91,9;91,1;90,2
+7;7;The University of Manchester;United Kingdom;86,9;68,3;96;95,4;87,7
+8=;8;University of California, Berkeley (UCB);United States;85,6;84,5;94,6;83,4;86,5
+8=;12;Wageningen University & Research;Netherlands;84,1;76,9;95,6;93,4;86,5
+10;10;Stanford University;United States;85;88,9;93,6;79,9;85,9
+11;14=;University of East Anglia (UEA);United Kingdom;84,2;61,9;99;88,6;84,9
+12;9;University of Cape Town;South Africa;85;73,7;89,8;85,8;84,7
+13;11;Erasmus University Rotterdam ;Netherlands;78,8;83,6;97;93,4;84,2
+14;14=;The Australian National University;Australia;82,2;87,9;88,3;85;84,1
+15;13;The University of Melbourne;Australia;77,2;92,2;91,5;91,7;83
+16;16;Columbia University;United States;80,3;81,1;91,6;81,7;82,3
+17;17;Princeton University;United States;80;81,1;89,1;78,9;81,3
+18;18=;University of Chicago;United States;81,7;72,8;87,6;74,7;80,6
+19;27;University of California, Los Angeles (UCLA);United States;79,3;70,9;94,5;76,9;80,4
+20;42;University of Leeds;United Kingdom;74,3;73,7;95,6;89,8;79,8
+21;31;University of Toronto;Canada;76,2;72;92,9;84,2;79,5
+22=;21;University of Amsterdam;Netherlands;73,3;79,8;96,2;85,8;79,3
+22=;18=;University of Göttingen;Germany;75;65,9;95,3;89,2;79,3
+24;20;Cornell University;United States;75,9;60,9;96,6;86,5;79,1
+25;34=;University of British Columbia;Canada;74,5;72,2;95,9;82,6;78,7
+26;23;Leiden University;Netherlands;74,2;79,2;92,6;79,9;78,3
+27;25;The University of Tokyo;Japan;78,4;83,2;79,1;69,5;77,7
+28;29;Lund University;Sweden;77,7;54;91,8;78,9;77,6
+29;45;Massey University;New Zealand;75,4;61,5;93,9;77,9;77,2
+30=;26;The University of Edinburgh;United Kingdom;72,3;79;89,8;82,6;77,1
+30=;30;Universidad Nacional Autónoma de México (UNAM);Mexico;77,2;87,7;79;68;77,1
+32;22;University of Witwatersrand;South Africa;74,4;63,4;87,5;85,8;77
+33;39;Makerere University;Uganda;77;60,8;86,9;75,8;76,7
+34;33;The University of Sydney;Australia;69,9;82,2;94;80,8;76,4
+35;37=;Boston University;United States;70,3;71,8;95,1;81,7;75,9
+36;36;McGill University;Canada;72,2;71,6;90,7;75,8;75,5
+37;;Seoul National University;South Korea;75,4;80,6;84,2;62,9;75,4
+38;51-100;Utrecht University;Netherlands;70,1;66,6;95;81,7;75,2
+39=;49;Johns Hopkins University;United States;69,9;72,5;93;79,9;75,1
+39=;24;The University of Hong Kong;Hong Kong SAR;70,4;76,5;90,2;77,9;75,1
+39=;43;Universidad de los Andes;Colombia;74,1;76,7;83,9;69,5;75,1
+39=;37=;Université Paris 1 Panthéon-Sorbonne ;France;71,7;91;85,1;68;75,1
+43;50;Victoria University of Wellington;New Zealand;75,1;66,4;84,4;69,5;74,8
+44;44;University of California, Davis;United States;72,5;46,3;98;78,9;74,7
+45;48;Yonsei University;South Korea;76,4;77,4;78,7;60,9;74,5
+46;28;Ghent University;Belgium;68,2;68,9;94,4;82,6;74,4
+47=;51-100;The University of Queensland;Australia;64,5;67,4;99,3;91,1;74
+47=;32;University of Copenhagen;Denmark;67,6;64,2;94,2;85,8;74
+49;41;University of Delhi;India;75,9;71,2;77,4;62,9;73,7
+50;46=;King's College London;United Kingdom;62,8;85,9;94,4;86,5;73,4
+51-100;51-100;American University;United States;68,1;67,2;88,1;77,9;
+51-100;40;American University of Beirut (AUB);Lebanon;69,7;75,1;77,8;66,4;
+51-100;;Asian Institute of Technology, Thailand;Thailand;66,7;64,4;83,9;64,7;
+51-100;51-100;Brown University;United States;69,1;74,8;82,7;68;
+51-100;51-100;Chulalongkorn University;Thailand;70,7;74,5;74,6;56,5;
+51-100;46=;Duke University;United States;71,8;69,6;84,1;70,9;
+51-100;51-100;Fudan University;China (Mainland);65,4;69;89,5;70,9;
+51-100;51-100;George Washington University;United States;65,9;72,6;88,6;70,9;
+51-100;51-100;Imperial College London;United Kingdom;71,4;81,6;74,8;60,9;
+51-100;;Korea University;South Korea;64,7;77,2;85,2;62,9;
+51-100;51-100;KU Leuven;Belgium;55,8;87,2;97,7;87,2;
+51-100;51-100;Kyung Hee University;South Korea;62,7;66;88,6;69,5;
+51-100;51-100;Maastricht University ;Netherlands;60,7;77,9;89,6;75,8;
+51-100;51-100;Michigan State University;United States;65,1;60,9;93,9;86,5;
+51-100;51-100;Monash University;Australia;61,6;73,6;93,1;84,2;
+51-100;51-100;Nagoya University;Japan;78,6;57,4;61,8;47,7;
+51-100;51-100;Newcastle University;United Kingdom;65,1;62,2;97,3;76,9;
+51-100;51-100;Paris School of Economics;France;71,9;42,2;85,7;68;
+51-100;;Queen Mary University of London;United Kingdom;56,4;70,3;97,2;83,4;
+51-100;;Renmin (People's) University of China;China (Mainland);60,9;56,6;91,2;77,9;
+51-100;51-100;RMIT University;Australia;60,7;61,6;91,6;77,9;
+51-100;34=;Sciences Po ;France;64,8;93;79,5;60,9;
+51-100;51-100;Stellenbosch University;South Africa;67,7;57,6;81,9;75,8;
+51-100;51-100;The Ohio State University;United States;65,8;53,5;94;78,9;
+51-100;51-100;The University of Adelaide;Australia;63,6;69,6;85,9;64,7;
+51-100;51-100;The University of Auckland;New Zealand;66,4;76,2;82,6;68;
+51-100;;The University of New South Wales (UNSW Sydney);Australia;58,3;72,7;89,6;79,9;
+51-100;51-100;The University of Sheffield;United Kingdom;59,1;61,1;98,5;93,4;
+51-100;51-100;The University of Warwick;United Kingdom;65,4;69,3;94,5;79,9;
+51-100;51-100;Universidade Estadual de Campinas (Unicamp);Brazil;70,5;75,1;66,4;53,9;
+51-100;;Universitas Indonesia;Indonesia;67,3;76;76,4;56,5;
+51-100;51-100;Université catholique de Louvain (UCLouvain);Belgium;60,6;83;88,5;73,5;
+51-100;51-100;Université Paris-Saclay;France;65,2;81,5;90,1;73,5;
+51-100;51-100;Universiti Malaya (UM);Malaysia;62,8;57,9;89,8;78,9;
+51-100;51-100;University of Bath;United Kingdom;62,8;62,7;89,1;79,9;
+51-100;51-100;University of Bern;Switzerland;62,1;63,2;89,4;72,2;
+51-100;51-100;University of Birmingham;United Kingdom;64,8;63;93,5;84,2;
+51-100;51-100;University of Groningen;Netherlands;64,4;59,5;97,2;81,7;
+51-100;;University of Illinois at Urbana-Champaign;United States;62,3;59,8;92,3;79,9;
+51-100;;University of Johannesburg;South Africa;61,4;63,3;83,8;83,4;
+51-100;51-100;University of Kwazulu-Natal;South Africa;72,5;60;76,4;72,2;
+51-100;51-100;University of Massachusetts Amherst;United States;68,8;57,2;88,4;75,8;
+51-100;;University of Minnesota Twin Cities;United States;67,3;49,8;92,9;81,7;
+51-100;51-100;University of Oslo;Norway;60,5;51,1;94,5;85;
+51-100;51-100;University of Pennsylvania;United States;64,6;69,9;89,8;70,9;
+51-100;51-100;University of the Western Cape;South Africa;66,7;52,5;84,8;69,5;
+51-100;51-100;University of Wisconsin-Madison;United States;71,9;52,5;87,7;69,5;
+51-100;101-110;University of York;United Kingdom;59,8;63,9;92,5;79,9;
+51-100;51-100;Uppsala University;Sweden;67;61,7;88,1;70,9;
+51-100;101-110;Zhejiang University;China (Mainland);59,8;63,9;92,5;80,8;
+101-120;51-100;Arizona State University;United States;57,4;60,4;95,4;81,7;
+101-120;;Bandung Institute of Technology (ITB);Indonesia;65,3;72,9;76,1;60,9;
+101-120;;Eindhoven University of Technology;Netherlands;65,6;54,3;82;58,8;
+101-120;51-100;Gadjah Mada University;Indonesia;71;73,7;68,1;47,7;
+101-120;;Goldsmiths, University of London;United Kingdom;63,8;53,6;84,7;62,9;
+101-120;;Indira Gandhi Institute of Development and Research;India;69;53,4;72,8;56,5;
+101-120;51-100;Sapienza University of Rome;Italy;56,1;87,1;90,5;70,9;
+101-120;;The University of Exeter;United Kingdom;58,5;64,2;87,6;73,5;
+101-120;;Universitat Pompeu Fabra (Barcelona);Spain;61,2;78,2;79,6;60,9;
+101-120;51-100;Universite libre de Bruxelles;Belgium;54,8;87,7;89,6;77,9;
+101-120;101-110;University of Bristol;United Kingdom;61,1;62,9;82,4;68;
+101-120;;University of Geneva;Switzerland;61;72,2;79,4;68;
+101-120;101-110;University of Ghana;Ghana;61,8;37,5;89,2;87,2;
+101-120;51-100;University of Glasgow;United Kingdom;59,7;65,6;84,4;69,5;
+101-120;51-100;University of Nairobi;Kenya;63;50;83;70,9;
+101-120;51-100;University of Otago;New Zealand;55,1;69;93,3;80,8;
+101-120;;University of Ottawa;Canada;55,9;63,3;90,5;80,8;
+101-120;101-110;University of Pretoria;South Africa;60,4;62,4;84,5;70,9;
+101-120;;University of Reading;United Kingdom;60,4;53,1;91,3;75,8;
+101-120;51-100;Vrije Universiteit Amsterdam;Netherlands;59,7;43,9;97,1;80,8;
+101-120;;York University;Canada;56,8;54,4;91,1;84,2;
