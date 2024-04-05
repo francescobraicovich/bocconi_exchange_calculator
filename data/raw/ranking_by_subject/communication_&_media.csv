@@ -1,0 +1,253 @@
+﻿2023;2022;Institution;Location;Academic;Employer;Citations;H;Score
+1;1;University of Amsterdam;Netherlands;100;78,2;96,9;100;97,2
+2;2;University of Southern California;United States;96,9;71,4;94,7;90,7;92,7
+3;3;The London School of Economics and Political Science (LSE);United Kingdom;89,9;91,9;98,1;89,9;91,7
+4;6;Stanford University;United States;91,1;99,3;95,3;81,8;90,9
+5;4;University of Texas at Austin;United States;92,7;76,9;90;92,9;90,6
+6;5;Nanyang Technological University, Singapore (NTU);Singapore;87,2;86,8;97,3;91,1;90
+7;7;University of Pennsylvania;United States;87,6;84,3;92,5;90,7;88,9
+8;8;University of Wisconsin-Madison;United States;90,3;69,7;91,2;90,3;88,4
+9;9=;Michigan State University;United States;86,2;74,4;92,6;90,7;87,2
+10;9=;New York University (NYU);United States;87,8;88,3;89,5;80,6;86,8
+11;12;Goldsmiths, University of London;United Kingdom;91,9;63,7;89,5;79,4;86,1
+12=;11;University of California, Berkeley (UCB);United States;88,9;91,5;86,2;74,4;85,7
+12=;14;University of Michigan-Ann Arbor;United States;83,3;80;91,7;88,7;85,7
+14=;18;Massachusetts Institute of Technology (MIT) ;United States;78,9;100;100;79,4;85,3
+14=;19;University of Vienna;Austria;81,1;66;96,7;94,2;85,3
+16=;24;Columbia University;United States;87,8;88,9;82,4;78,8;85
+16=;16=;Northwestern University;United States;81,8;76,4;94,3;88,2;85
+18;21;University of California, Los Angeles (UCLA);United States;87,8;91,5;83,1;76;84,9
+19;15;Queensland University of Technology (QUT);Australia;83,1;69,2;95,7;86;84,8
+20;13;The Chinese University of Hong Kong (CUHK);Hong Kong SAR;85;69,8;91;85;84,7
+21;16=;University of Zurich;Switzerland;78,4;65,9;99,6;94,2;84,6
+22;20;Ludwig-Maximilians-Universität München;Germany;78,7;75,2;94,4;90,7;83,9
+23=;26=;National University of Singapore (NUS);Singapore;84,3;90,3;83,7;78,8;83,7
+23=;22=;University of Leeds;United Kingdom;83,8;77;87,8;82,9;83,7
+25;32=;Pennsylvania State University;United States;81,1;76;88,5;87,8;83,4
+26;29;King's College London;United Kingdom;83,4;82,1;84,4;81,8;83,2
+27=;30=;The Ohio State University;United States;79,9;71,5;92,8;87,4;83,1
+27=;34;Yale University;United States;85,3;93,2;82,9;72,8;83,1
+29=;22=;Cardiff University;United Kingdom;81,5;67,5;90,3;85,5;82,7
+29=;25;University of California, Santa Barbara (UCSB);United States;84;61,8;90,7;81,8;82,7
+31;32=;University of Illinois at Urbana-Champaign;United States;80,7;70,6;88,5;86;82,3
+32;30=;University of Copenhagen;Denmark;79,4;73,7;90,6;85;82,2
+33;35;University of Toronto;Canada;79;87,7;83,5;85;82
+34;26=;Cornell University;United States;76,1;85,1;91,1;85,5;81,9
+35;28;The University of Sydney;Australia;77,8;83;84,2;85,5;81,1
+36;44=;UCL;United Kingdom;75,7;86,1;87,7;84;80,8
+37;40=;Seoul National University;South Korea;83,8;83,2;80,4;71;80,5
+38;51-100;Tsinghua University;China (Mainland);80,7;85,1;84,8;72,8;80,4
+39;40=;Freie Universitaet Berlin;Germany;84,2;70,2;83,1;72,8;80,3
+40=;38;The University of Melbourne;Australia;76,5;86,5;82,2;84,5;80,2
+40=;44=;University of Washington;United States;73;72,1;94,5;87,8;80,2
+42;40=;RMIT University;Australia;77,8;75,2;86,3;81,2;79,9
+43;51-100;Yonsei University;South Korea;82,1;81,2;82,3;71;79,8
+44;51-100;University of Helsinki;Finland;76,9;65,6;88,5;85;79,7
+45=;51-100;The University of Edinburgh;United Kingdom;79,3;83,5;82,4;75,2;79,5
+45=;39;University of North Carolina, Chapel Hill;United States;77,3;66,8;88,1;82,9;79,5
+47=;36=;Aarhus University;Denmark;79,3;69,4;84,9;78,8;79,3
+47=;47;University of British Columbia;Canada;75,6;87;84,5;79,4;79,3
+49;51-100;Peking University;China (Mainland);80,4;84,9;82,9;69;79,1
+50;43;University of Missouri, Columbia;United States;72,4;61,6;94,8;88,2;79
+51-100;51-100;Boston University;United States;64,4;77;93,3;84;
+51-100;50;City University of Hong Kong;Hong Kong SAR;75,5;62,8;90,4;78,1;
+51-100;51-100;City, University of London;United Kingdom;70,6;62,3;95,4;84;
+51-100;51-100;Complutense University of Madrid;Spain;74,6;80,5;75,6;73,6;
+51-100;51-100;Erasmus University Rotterdam ;Netherlands;64,6;77,5;94,6;83,5;
+51-100;51-100;Fudan University;China (Mainland);79,8;83,7;76;68;
+51-100;51-100;George Washington University;United States;64,2;69,2;95,7;82,9;
+51-100;101-150;Georgetown University;United States;67;72,4;91,2;77,4;
+51-100;51-100;Ghent University;Belgium;67,1;63,6;87,8;86;
+51-100;51-100;Hong Kong Baptist University;Hong Kong SAR;78;49,7;86,8;79,4;
+51-100;46;Indiana University Bloomington;United States;73,4;61,6;89,7;88,2;
+51-100;51-100;Korea University;South Korea;79,1;78,7;82,8;71;
+51-100;51-100;KU Leuven;Belgium;72,8;73;86,6;80,6;
+51-100;51-100;Loughborough University;United Kingdom;73,4;69,4;88,8;76,7;
+51-100;51-100;Lund University;Sweden;72,9;72,2;84,5;74,4;
+51-100;51-100;Massey University;New Zealand;72,5;63,9;84,8;75,2;
+51-100;51-100;McGill University;Canada;75,1;84,9;83,2;72,8;
+51-100;51-100;Monash University;Australia;72,6;83,5;84,2;83,5;
+51-100;51-100;Pontificia Universidad Católica de Chile (UC);Chile;78;87,2;80,4;71;
+51-100;51-100;Purdue University;United States;71;73,8;88,1;81,2;
+51-100;51-100;Rutgers University–New Brunswick;United States;67,6;67,1;89;84,5;
+51-100;51-100;Syracuse University;United States;71,8;59;92,5;82,9;
+51-100;51-100;Tampere University;Finland;71;54,3;87,9;79,4;
+51-100;51-100;The University of Georgia;United States;68,2;62,1;94,9;86,5;
+51-100;36=;The University of Hong Kong;Hong Kong SAR;79,6;77,2;82,2;74,4;
+51-100;51-100;The University of New South Wales (UNSW Sydney);Australia;69,1;83,6;87,9;82,4;
+51-100;51-100;The University of Queensland;Australia;72,7;78,2;82,9;74,4;
+51-100;51-100;The University of Sheffield;United Kingdom;72,5;67;89,5;78,1;
+51-100;51-100;The University of Warwick;United Kingdom;72,8;79,3;84;71;
+51-100;101-150;Universidad Nacional Autónoma de México (UNAM);Mexico;83,5;88;64,1;57,3;
+51-100;101-150;University of Birmingham;United Kingdom;73,2;71,6;85,2;70;
+51-100;51-100;University of Chicago;United States;79,3;82,8;82,1;71,9;
+51-100;51-100;University of Colorado Boulder;United States;70,1;60,7;88;84;
+51-100;48=;University of Florida;United States;74,4;64,9;88,6;85,5;
+51-100;51-100;University of Glasgow;United Kingdom;76,7;73,8;79,7;71;
+51-100;51-100;University of Gothenburg;Sweden;67,8;57;91,6;85,5;
+51-100;48=;University of Groningen;Netherlands;68,7;65;94,4;83,5;
+51-100;51-100;University of Illinois at Chicago (UIC);United States;69;64,4;91,7;76;
+51-100;51-100;University of Leicester;United Kingdom;73,5;60,4;85,9;77,4;
+51-100;51-100;University of Maryland, College Park;United States;67,6;66,2;92;86;
+51-100;51-100;University of Minnesota Twin Cities;United States;66,9;64,2;86,9;86,5;
+51-100;51-100;University of Navarra;Spain;74,1;80,3;86,8;80;
+51-100;51-100;University of Oslo;Norway;73,7;58,5;88,2;83,5;
+51-100;51-100;University of Technology Sydney;Australia;71,1;73,3;87,9;71,9;
+51-100;51-100;University of Westminster;United Kingdom;78,4;56,1;84,3;75,2;
+51-100;51-100;Utrecht University;Netherlands;69,9;68,4;88,8;80,6;
+51-100;51-100;Vrije Universiteit Amsterdam;Netherlands;68,6;57,2;96,6;84,5;
+51-100;51-100;Vrije Universiteit Brussel (VUB);Belgium;68,2;60,5;94,1;77,4;
+51-100;101-150;Wuhan University;China (Mainland);70,7;74,1;83,8;74,4;
+51-100;151-200;Zhejiang University;China (Mainland);73,7;84,1;80;69;
+101-150;101-150;Aalto University;Finland;69,1;66,1;83,7;68;
+101-150;101-150;Alma Mater Studiorum - University of Bologna;Italy;74,5;78,7;77,4;65,8;
+101-150;51-100;Arizona State University;United States;64,9;69,8;88,3;85;
+101-150;101-150;Carnegie Mellon University;United States;64,7;74;91,8;71,9;
+101-150;101-150;City University of New York;United States;67,1;67,7;77,6;76,7;
+101-150;101-150;Concordia University;Canada;71,8;62,7;84,5;76;
+101-150;101-150;Dublin City University;Ireland;65;65,5;87,9;77,4;
+101-150;101-150;Humboldt-Universität zu Berlin;Germany;79,8;73;75,1;58,9;
+101-150;101-150;Johannes Gutenberg Universität Mainz;Germany;70,6;45,4;88,3;78,8;
+101-150;151-200;Johns Hopkins University;United States;66,4;75,5;89,5;71,9;
+101-150;101-150;Lancaster University;United Kingdom;67,6;70,8;85,9;76;
+101-150;101-150;Leiden University;Netherlands;68,1;67,6;80,6;72,8;
+101-150;101-150;Macquarie University;Australia;65;68,7;87,7;72,8;
+101-150;151-200;National Taiwan University (NTU);Taiwan;72;77,8;76,8;65,8;
+101-150;101-150;Newcastle University;United Kingdom;63,7;74,2;90,5;76;
+101-150;151-200;Renmin (People's) University of China;China (Mainland);74,7;70,4;75,4;65,8;
+101-150;101-150;Shanghai Jiao Tong University;China (Mainland);70,1;82,2;83,1;70;
+101-150;101-150;Simon Fraser University;Canada;68,6;62,5;83,9;77,4;
+101-150;151-200;SOAS University of London ;United Kingdom;73,3;63,6;77,6;63,3;
+101-150;51-100;Stockholm University;Sweden;70,5;64,3;84,3;76,7;
+101-150;101-150;Sungkyunkwan University(SKKU);South Korea;73,9;74,8;80,5;66,9;
+101-150;151-200;Tecnológico de Monterrey;Mexico;73;86,8;71,4;63,3;
+101-150;51-100;Temple University;United States;64,2;51,7;94,8;83,5;
+101-150;151-200;The University of Alabama;United States;61,4;62,7;94,2;80,6;
+101-150;101-150;The University of Arizona;United States;65,8;61,2;86,9;80,6;
+101-150;101-150;The University of Auckland;New Zealand;67,1;76,5;80,5;71;
+101-150;101-150;The University of Tokyo;Japan;77,2;87,5;71,9;61,9;
+101-150;101-150;Universidade de São Paulo;Brazil;77,3;81,6;64,1;63,3;
+101-150;151-200;Università Cattolica del Sacro Cuore;Italy;68,9;73,5;82,8;71;
+101-150;101-150;Universitat Autònoma de Barcelona;Spain;73;71,2;79,1;73,6;
+101-150;101-150;Universitat de Barcelona;Spain;71,4;73,8;77,9;71,9;
+101-150;101-150;Universität Hamburg;Germany;70,2;63,6;82,7;74,4;
+101-150;151-200;Universität Leipzig;Germany;67,9;53,7;87,2;72,8;
+101-150;101-150;Universitat Pompeu Fabra (Barcelona);Spain;66,3;71,7;84;78,1;
+101-150;101-150;Université de Montréal ;Canada;70,6;72,2;81,5;66,9;
+101-150;101-150;Universiti Malaya (UM);Malaysia;69,6;78,8;81,9;75,2;
+101-150;51-100;University of Antwerp;Belgium;65,6;56,8;89,7;82,9;
+101-150;101-150;University of Bergen;Norway;68,6;52,1;89;78,8;
+101-150;101-150;University of California, Davis;United States;68,5;70,2;86;76;
+101-150;151-200;University of California, Irvine;United States;68,4;60,9;86,3;71,9;
+101-150;101-150;University of California, San Diego (UCSD);United States;70,4;72,4;85,1;72,8;
+101-150;101-150;University of East Anglia (UEA);United Kingdom;68;57,1;83,4;74,4;
+101-150;151-200;University of Huddersfield;United Kingdom;72,6;58,9;87,5;58,9;
+101-150;51-100;University of Iowa;United States;69,3;58,6;86,8;78,8;
+101-150;101-150;University of Massachusetts Amherst;United States;64,7;61,9;90,8;81,2;
+101-150;101-150;University of Oregon;United States;63,7;62,6;93,9;86,9;
+101-150;101-150;University of Sussex;United Kingdom;70,2;57,7;83,4;71;
+101-150;101-150;University of Utah;United States;60,5;58,1;92,6;86,9;
+101-150;101-150;Uppsala University;Sweden;67,1;59,4;85;77,4;
+101-150;101-150;Westfälische Wilhelms-Universität Münster ;Germany;63,1;50,2;94,1;80;
+151-200;151-200;Western Sydney University;Australia;62,3;58,4;84,1;74,4;
+151-200;;Beijing Normal University ;China (Mainland);72,1;55,2;72;64,6;
+151-200;151-200;Birkbeck, University of London;United Kingdom;70,7;40,1;86,5;68;
+151-200;151-200;Bournemouth University;United Kingdom;62,2;57,3;89,6;76,7;
+151-200;151-200;Brown University;United States;70,3;73;77,7;60,5;
+151-200;151-200;Carleton University;Canada;62,1;65,2;81,5;71;
+151-200;151-200;Charles University;Czech Republic;70,8;66,1;71,9;65,8;
+151-200;201-240;Communication University of China;China (Mainland);77;35;69,1;61,9;
+151-200;151-200;Curtin University;Australia;59,6;67,9;85,1;73,6;
+151-200;101-150;Deakin University;Australia;62,2;67,3;85;79,4;
+151-200;151-200;George Mason University;United States;58,2;51,9;90,7;82,4;
+151-200;201-240;Hanyang University;South Korea;73;75,1;68,7;53,6;
+151-200;151-200;HSE University;Russia;65,4;82,6;68,8;68;
+151-200;201-240;Kyoto University;Japan;70,3;82,5;72;51,4;
+151-200;151-200;Lomonosov Moscow State University;Russia;76,3;89;59,7;49,1;
+151-200;201-240;Nanjing University;China (Mainland);74,1;60,4;72,1;65,8;
+151-200;151-200;National Chengchi University;Taiwan;65,2;64,7;80,4;69;
+151-200;151-200;Northeastern University;United States;60,3;58,4;85,8;74,4;
+151-200;151-200;Ohio University;United States;64,1;57,5;82,1;74,4;
+151-200;151-200;Queen Mary University of London;United Kingdom;65,3;71,5;85;64,6;
+151-200;151-200;Sapienza University of Rome;Italy;70,2;76;70,1;64,6;
+151-200;101-150;Sorbonne University;France;76,9;80,1;65,1;53,6;
+151-200;;Sun Yat-sen University;China (Mainland);65,1;67,7;80,2;66,9;
+151-200;101-150;Texas A&M University;United States;61,5;71,9;83;76,7;
+151-200;101-150;The Hebrew University of Jerusalem;Israel;66,6;54,1;79,4;78,1;
+151-200;201-240;The University of Western Australia;Australia;62,1;70,9;84,6;66,9;
+151-200;101-150;Universidad de Buenos Aires (UBA);Argentina;78,5;87,2;58,4;53,6;
+151-200;151-200;Universidad de La Sabana;Colombia;71;72,7;70,3;61,9;
+151-200;151-200;Universidad de Sevilla;Spain;62,6;62,9;76,7;76;
+151-200;201-240;Universidad Iberoamericana IBERO;Mexico;70,6;75,4;67,8;63,3;
+151-200;101-150;Universität Bremen;Germany;69,2;48,7;83,7;68;
+151-200;151-200;Université du Québec;Canada;72;59,6;79;66,9;
+151-200;151-200;Universite libre de Bruxelles;Belgium;64;73,4;76,3;66,9;
+151-200;201-240;Université Paris 1 Panthéon-Sorbonne ;France;74,7;80,1;62,8;51,4;
+151-200;151-200;Universiti Kebangsaan Malaysia (UKM);Malaysia;65,4;70,1;79,3;70;
+151-200;201-240;Universiti Sains Malaysia (USM);Malaysia;66,3;71,2;74,2;64,6;
+151-200;101-150;University of Bristol;United Kingdom;65;75,5;86,2;65,8;
+151-200;151-200;University of Canberra ;Australia;60;57,8;90,8;76;
+151-200;101-150;University of Cape Town;South Africa;65,9;70,3;81;71,9;
+151-200;101-150;University of Central Florida;United States;61,4;61,6;88,7;74,4;
+151-200;201-240;University of Hawai_i at M_noa;United States;59,2;67,6;86,4;76,7;
+151-200;201-240;University of Liverpool;United Kingdom;69,6;67,4;78,7;64,6;
+151-200;101-150;University of Miami;United States;61,6;63,8;88,7;75,2;
+151-200;151-200;University of Nottingham;United Kingdom;66,2;74,7;79,8;69;
+151-200;;University of Ottawa;Canada;60,2;72,3;83,6;74,4;
+151-200;151-200;University of Salamanca;Spain;64;61,5;78;71,9;
+151-200;151-200;University of South Carolina;United States;63,7;56,3;87;77,4;
+151-200;151-200;University of Southern Denmark (SDU);Denmark;59;67,9;89,2;79,4;
+151-200;151-200;University of Stirling;United Kingdom;62,8;57,3;85,9;74,4;
+151-200;;University of the Arts London;United Kingdom;72,7;67,3;66,9;61,9;
+151-200;201-240;University of Virginia;United States;63;63,2;81,1;71,9;
+151-200;151-200;York University;Canada;64,9;66,5;83,1;76;
+201-250;151-200;Aalborg University;Denmark;57,9;66;86;74,4;
+201-250;;Aristotle University of Thessaloniki;Greece;59,3;65,1;78,8;64,6;
+201-250;151-200;Auckland University of Technology (AUT);New Zealand;60;63,8;81,9;71,9;
+201-250;;Chung-Ang University (CAU);South Korea;63,4;64,1;76,8;63,3;
+201-250;;Ewha Womans University;South Korea;70,6;63,5;71,8;57,3;
+201-250;151-200;Florida State University;United States;58,6;67,3;82,8;73,6;
+201-250;151-200;Georgia Institute of Technology;United States;58;75,7;80,2;61,9;
+201-250;151-200;Griffith University;Australia;57,7;61,7;83,7;74,4;
+201-250;201-240;La Trobe University;Australia;57;65,1;82,8;74,4;
+201-250;;North Carolina State University;United States;55,1;61,4;88,1;73,6;
+201-250;201-240;Nottingham Trent University;United Kingdom;61,6;62,3;79,7;71;
+201-250;201-240;Pontificia Universidad Católica de Valparaíso;Chile;65,8;66,3;74;65,8;
+201-250;151-200;Pontificia Universidad Javeriana;Colombia;76,7;80,3;58,1;46,4;
+201-250;151-200;Radboud University ;Netherlands;57,5;55,5;88,2;78,8;
+201-250;151-200;Roskilde University;Denmark;59,1;57,9;80,9;72,8;
+201-250;151-200;Royal Holloway University of London;United Kingdom;62;58,8;83,4;68;
+201-250;201-240;Ryerson University;Canada;61,7;66,2;77,7;66,9;
+201-250;;Saint Petersburg State University;Russia;66,6;78,5;58;60,5;
+201-250;;Sciences Po ;France;62,4;74,6;70,6;61,9;
+201-250;201-240;Swinburne University of Technology;Australia;60,6;58,6;81;70;
+201-250;;Taylor's University;Malaysia;61,5;77,9;69,4;61,9;
+201-250;201-240;The New School;United States;75,2;58,3;66,7;51,4;
+201-250;151-200;The University of Tennessee, Knoxville;United States;56,2;55,3;86,2;76;
+201-250;;Universidad de Guadalajara (UDG);Mexico;67,7;64,9;66,9;60,5;
+201-250;201-240;Universidad Rey Juan Carlos;Spain;54,5;61,7;85,2;75,2;
+201-250;;Universidade Federal do Rio de Janeiro;Brazil;66,7;71;64,3;58,9;
+201-250;201-240;Universidade Nova de Lisboa;Portugal;61,5;61,8;78,1;63,3;
+201-250;201-240;Universitas Indonesia;Indonesia;67,8;78,1;71,5;57,3;
+201-250;151-200;Universität Mannheim;Germany;58,2;63,5;84,6;75,2;
+201-250;101-150;Université PSL;France;65;82,6;68,8;63,3;
+201-250;;Universiti Utara Malaysia (UUM);Malaysia;60,9;60;78,7;69;
+201-250;151-200;University at Buffalo SUNY;United States;55,4;53,3;86;75,2;
+201-250;201-240;University of Alberta;Canada;60,2;71,8;78,2;68;
+201-250;;University of Calgary;Canada;59,2;73,5;80,2;63,3;
+201-250;201-240;University of Canterbury | Te Whare W_nanga o Waitaha;New Zealand;64,5;66,7;72,2;61,9;
+201-250;;University of Cologne;Germany;60,4;59,7;78,3;68;
+201-250;;University of Geneva;Switzerland;66,3;65,9;75;61,9;
+201-250;151-200;University of Kentucky;United States;56,3;53,8;89,5;78,1;
+201-250;201-240;University of Massachusetts Boston;United States;53,7;55;86,3;76;
+201-250;151-200;University of Milan;Italy;64,6;66,5;74,7;65,8;
+201-250;151-200;University of Oklahoma;United States;61,3;54,5;85,1;73,6;
+201-250;151-200;University of Otago;New Zealand;62,5;69,2;79,7;69;
+201-250;151-200;University of Pittsburgh;United States;65,6;52,9;79,7;68;
+201-250;;University of South Florida;United States;54,8;53,9;88,2;74,4;
+201-250;;University of Tartu;Estonia;66,5;58,6;67,9;63,3;
+201-250;201-240;University of Waikato;New Zealand;61,8;59,7;81,1;66,9;
+201-250;201-240;University of York;United Kingdom;64,1;65,4;79,2;64,6;
+201-250;151-200;Victoria University of Wellington;New Zealand;64,6;66,8;78,6;64,6;
+201-250;201-240;Waseda University;Japan;68,7;81,1;72,7;53,6;
+201-250;201-240;Western University;Canada;57,4;73,4;86,8;71;
